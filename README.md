@@ -18,6 +18,6 @@ Completed user stories:
  
 Walkthrough
 
-![Video Walkthrough]
+![tipvideo](https://cloud.githubusercontent.com/assets/9828106/5673603/1f722f28-9753-11e4-9f04-3672cd6c570d.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
